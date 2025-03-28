@@ -116,7 +116,7 @@
 
     <h1>Features <img height="50" src="https://raw.githubusercontent.com/Meowtasticbot/Meowtasticbot.github.io/main/assets/emojibest_com_AnimatedSticker.gif"/></h1>
 
-    <h2>Group management features...</h2>
+    <h2>Group Management Features...</h2>
 
     <ul>
         <li> I can keep spammers away from your group with ban, mute, and kick features.</li>
@@ -138,13 +138,27 @@
         <h1> <img src="https://raw.githubusercontent.com/Meowtasticbot/Meowtasticbot.github.io/main/assets/songs.gif" width="90px"></h1>
     </p>
 
-    <h2>Meowtastic music player features...</h2>
+    <h2>Meowtastic Music Player features...</h2>
 
     <ul>
         <li> Meowtastic also has an advanced music player. 🎶</li>
         <li> It's stable and less prone to crashes with attractive thumbnails with user and group pfp.</li>
         <li> I can play music and videos in your groups! ✨</li>
         <li> I have music and video search and download option also available.</li>
+        <li> Meowtastic player has many good features like seek, playforce, replay, authorized user, search, and many more.</li>
+    </ul>
+
+    <p align="centre">
+        <h1> <img src="https://raw.githubusercontent.com/Meowtasticbot/Meowtasticbot.github.io/main/assets/songs.gif" width="90px"></h1>
+    </p>
+
+    <h2>Meowtastic Music Clone Features...</h2>
+
+    <ul>
+        <li> Easy Cloning – Clone your own bot instantly.</li>
+        <li> Bot Management – Check and manage your cloned bots.</li>
+        <li> Exclusive for Owners – View bot details and settings. ✨</li>
+        <li> Premium Perks – Add channels, support groups, and broadcast messages.</li>
         <li> Meowtastic player has many good features like seek, playforce, replay, authorized user, search, and many more.</li>
     </ul>
 
