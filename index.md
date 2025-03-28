@@ -290,10 +290,10 @@
     </head>
     <body>
     <div class="center">
-        <a href="https://t.me/cbsewalechicha10" target="_blank">
+        <a href="https://t.me/btw_moon/557" target="_blank">
             <img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">
         </a>
-        <a href="https://github.com/cbsewalechicha10" target="_blank">
+        <a href="https://github.com/Moonshining1" target="_blank">
             <img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">
         </a>
     </div>
