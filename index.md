@@ -308,3 +308,15 @@
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
+
+
+<h2>Visitor Count:</h2>
+<p id="viewCount">Loading...</p>
+<script>
+    if (localStorage.getItem("page_views") === null) {
+        localStorage.setItem("page_views", 1);
+    } else {
+        localStorage.setItem("page_views", Number(localStorage.getItem("page_views")) + 1);
+    }
+    document.getElementById("viewCount").textContent = localStorage.getItem("page_views");
+</script>
