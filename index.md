@@ -224,7 +224,7 @@
         <dt>Name</dt>
         <dd>Meowtastic</dd>
         <dt>Born</dt>
-        <dd>September 2022</dd>
+        <dd>5 March 2025</dd>
         <dt>Birthplace</dt>
         <dd>Telegram</dd>
         <dt>Language</dt>
@@ -304,7 +304,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>
 
-    <p>© Meowtastic bot 2023-24</p>
+    <p>© Meowtastic bot 2025-26</p>
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
