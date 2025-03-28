@@ -260,7 +260,7 @@
 
     <ul>
     <li>
-        <a href="https://t.me/Meowtasticbott" target="_blank">
+        <a href="https://t.me/btw_moon/557" target="_blank">
             <img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram">
         </a>
     </li>
