@@ -55,7 +55,7 @@
 </head>
 <body>
     <p align="right">
-        <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" class="profile-pic"> Hello cuties ✨</h1>
+        <h1> <img src="https://files.catbox.moe/1vyp0o.jpg" class="profile-pic"> Hello cuties ✨</h1>
     </p>
 
     <p>
